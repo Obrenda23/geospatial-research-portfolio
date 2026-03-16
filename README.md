@@ -45,10 +45,10 @@ Code for this research is currently private while thesis work and publications a
 - Java Script (Google Earth Engine)
 
 **Geospatial Tools**
-- QGIS
+- ArcGIS/ArcGIS pro
 - ENVI
-- Remote sensing analysis
-- Hyperspectral data processing
+- QGIS
+- Google Earth Engine
 
 **Methods**
 - Machine learning regression
