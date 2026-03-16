@@ -73,6 +73,7 @@ Code for this research is currently private while thesis work and publications a
 
 Bowling Green State University  
 M.S. Applied Geospatial Science  
+obrenda@bgsu.edu
 
 GitHub Profile:  
 https://github.com/Obrenda23
