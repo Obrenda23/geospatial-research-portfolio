@@ -40,10 +40,9 @@ Code for this research is currently private while thesis work and publications a
 ## Technical Skills
 
 **Programming**
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
+- python
+- R
+- Java Script (Google Earth Engine)
 
 **Geospatial Tools**
 - QGIS
